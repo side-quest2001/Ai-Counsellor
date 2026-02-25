@@ -1,0 +1,136 @@
+{
+  "resources": [
+    {
+      "topic": "Mechanics",
+      "subject": "Physics",
+      "books": [
+        { "title": "Concepts of Physics Vol 1 & 2", "author": "H.C. Verma", "level": "Standard" },
+        { "title": "Problems in General Physics", "author": "I.E. Irodov", "level": "Advanced" },
+        { "title": "NCERT Physics Part 1", "author": "NCERT", "level": "NCERT" }
+      ],
+      "youtube_channels": [
+        { "name": "Physics Wallah", "url": "https://www.youtube.com/@PhysicsWallah", "specialty": "Conceptual clarity, JEE Mains level" },
+        { "name": "Vedantu JEE", "url": "https://www.youtube.com/@VedantuJEE", "specialty": "JEE Advanced problems" }
+      ],
+      "free_platforms": [
+        { "name": "NCERT Exemplar", "url": "https://ncert.nic.in/exemplar-problems.php", "description": "Official NCERT exemplar problems" },
+        { "name": "Khan Academy", "url": "https://www.khanacademy.org/science/physics", "description": "Foundational concepts" }
+      ],
+      "practice_sources": ["DC Pandey Mechanics", "JEE Mains PYQs – Mechanics section", "Arihant Skills in Physics"]
+    },
+    {
+      "topic": "Electrostatics",
+      "subject": "Physics",
+      "books": [
+        { "title": "Concepts of Physics Vol 2", "author": "H.C. Verma", "level": "Standard" },
+        { "title": "DC Pandey Electricity & Magnetism", "author": "D.C. Pandey", "level": "Standard" },
+        { "title": "NCERT Physics Part 1 Ch. 1-2", "author": "NCERT", "level": "NCERT" }
+      ],
+      "youtube_channels": [
+        { "name": "Physics Wallah", "url": "https://www.youtube.com/@PhysicsWallah", "specialty": "Electrostatics series" },
+        { "name": "Pradeep Kshetrapal", "url": "https://www.youtube.com/@pradeepkshetrapal", "specialty": "Conceptual depth" }
+      ],
+      "free_platforms": [
+        { "name": "NCERT Solutions", "url": "https://ncert.nic.in", "description": "Official NCERT solutions" }
+      ],
+      "practice_sources": ["DC Pandey Electrostatics", "JEE Advanced PYQs – Electrostatics", "Halliday Resnick selected problems"]
+    },
+    {
+      "topic": "Organic Chemistry",
+      "subject": "Chemistry",
+      "books": [
+        { "title": "Organic Chemistry", "author": "O.P. Tandon", "level": "Standard" },
+        { "title": "Organic Chemistry", "author": "Morrison & Boyd", "level": "Advanced" },
+        { "title": "NCERT Chemistry Part 2 (Class 12)", "author": "NCERT", "level": "NCERT" }
+      ],
+      "youtube_channels": [
+        { "name": "Physics Wallah Chemistry", "url": "https://www.youtube.com/@PhysicsWallah", "specialty": "Organic reaction mechanisms" },
+        { "name": "Unacademy JEE Chemistry", "url": "https://www.youtube.com/@unacademyjee", "specialty": "Named reactions and mechanisms" }
+      ],
+      "free_platforms": [
+        { "name": "NCERT Solutions", "url": "https://ncert.nic.in", "description": "Official solutions" }
+      ],
+      "practice_sources": ["MS Chauhan Organic Chemistry", "VK Jaiswal Organic", "JEE PYQs – Organic Chemistry"]
+    },
+    {
+      "topic": "Inorganic Chemistry",
+      "subject": "Chemistry",
+      "books": [
+        { "title": "Inorganic Chemistry", "author": "O.P. Tandon", "level": "Standard" },
+        { "title": "NCERT Chemistry Part 1 & 2", "author": "NCERT", "level": "NCERT" }
+      ],
+      "youtube_channels": [
+        { "name": "Physics Wallah Chemistry", "url": "https://www.youtube.com/@PhysicsWallah", "specialty": "Inorganic tricks and mnemonics" }
+      ],
+      "free_platforms": [
+        { "name": "NCERT Solutions", "url": "https://ncert.nic.in", "description": "Official solutions – NCERT is king for Inorganic" }
+      ],
+      "practice_sources": ["VK Jaiswal Inorganic", "NCERT Exemplar Chemistry", "JEE PYQs – Inorganic"]
+    },
+    {
+      "topic": "Physical Chemistry",
+      "subject": "Chemistry",
+      "books": [
+        { "title": "Physical Chemistry", "author": "O.P. Tandon", "level": "Standard" },
+        { "title": "Numerical Chemistry", "author": "P. Bahadur", "level": "Standard" },
+        { "title": "NCERT Chemistry Part 1 (Class 11 & 12)", "author": "NCERT", "level": "NCERT" }
+      ],
+      "youtube_channels": [
+        { "name": "Physics Wallah Chemistry", "url": "https://www.youtube.com/@PhysicsWallah", "specialty": "Physical chemistry numericals" }
+      ],
+      "free_platforms": [
+        { "name": "Khan Academy Chemistry", "url": "https://www.khanacademy.org/science/chemistry", "description": "Foundational physical chemistry" }
+      ],
+      "practice_sources": ["RC Mukherjee Numerical Chemistry", "JEE PYQs – Physical Chemistry", "Narendra Awasthi Physical Chemistry"]
+    },
+    {
+      "topic": "Calculus",
+      "subject": "Maths",
+      "books": [
+        { "title": "Problems in Calculus of One Variable", "author": "I.A. Maron", "level": "Advanced" },
+        { "title": "Differential Calculus", "author": "A. Das Gupta", "level": "Standard" },
+        { "title": "NCERT Mathematics Part 2 (Class 12)", "author": "NCERT", "level": "NCERT" }
+      ],
+      "youtube_channels": [
+        { "name": "Physics Wallah Maths", "url": "https://www.youtube.com/@PhysicsWallah", "specialty": "JEE level calculus" },
+        { "name": "Neha Agarwal Mathematically Inclined", "url": "https://www.youtube.com/@NehaAgarwalMathematicallyInclined", "specialty": "Conceptual approach" }
+      ],
+      "free_platforms": [
+        { "name": "Brilliant.org", "url": "https://brilliant.org", "description": "Interactive problem solving" }
+      ],
+      "practice_sources": ["Cengage Calculus by G. Tewani", "Arihant Calculus", "JEE Advanced PYQ – Calculus"]
+    },
+    {
+      "topic": "Algebra",
+      "subject": "Maths",
+      "books": [
+        { "title": "Algebra for JEE", "author": "S.K. Goyal (Arihant)", "level": "Standard" },
+        { "title": "Higher Algebra", "author": "Hall & Knight", "level": "Advanced" },
+        { "title": "NCERT Mathematics (Class 11)", "author": "NCERT", "level": "NCERT" }
+      ],
+      "youtube_channels": [
+        { "name": "Physics Wallah Maths", "url": "https://www.youtube.com/@PhysicsWallah", "specialty": "Algebra series" }
+      ],
+      "free_platforms": [
+        { "name": "Khan Academy Algebra", "url": "https://www.khanacademy.org/math/algebra", "description": "Foundational algebra" }
+      ],
+      "practice_sources": ["Cengage Algebra", "SL Loney Trigonometry for Algebra portions", "JEE PYQs – Algebra"]
+    },
+    {
+      "topic": "Coordinate Geometry",
+      "subject": "Maths",
+      "books": [
+        { "title": "Coordinate Geometry", "author": "S.L. Loney", "level": "Advanced" },
+        { "title": "Coordinate Geometry for JEE", "author": "S.K. Goyal", "level": "Standard" },
+        { "title": "NCERT Mathematics (Class 11)", "author": "NCERT", "level": "NCERT" }
+      ],
+      "youtube_channels": [
+        { "name": "Physics Wallah Maths", "url": "https://www.youtube.com/@PhysicsWallah", "specialty": "Conic sections for JEE" }
+      ],
+      "free_platforms": [
+        { "name": "GeoGebra", "url": "https://www.geogebra.org", "description": "Visual geometry exploration" }
+      ],
+      "practice_sources": ["Cengage Coordinate Geometry", "JEE PYQs – Coordinate Geometry", "Arihant Coordinate Geometry"]
+    }
+  ]
+}

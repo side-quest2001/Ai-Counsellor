@@ -1,0 +1,166 @@
+{
+  "studyPlans": [
+    {
+      "id": "crash_1_3_months",
+      "label": "Intensive Crash Course (1–3 months)",
+      "suitable_for_months": { "min": 1, "max": 3 },
+      "suitable_for_class": ["12th", "Dropper"],
+      "phases": [
+        {
+          "phase_number": 1,
+          "name": "High-Yield Revision Blitz",
+          "duration_weeks": 4,
+          "focus": "Cover only high-weightage topics: Mechanics, Calculus, Physical & Inorganic Chemistry",
+          "daily_hours_recommended": 10,
+          "subjects_priority": ["Maths", "Chemistry", "Physics"],
+          "key_milestones": ["Complete NCERT Chemistry", "Solve 200+ questions per subject", "2 full mock tests"],
+          "daily_target": "3 topic revisions + 50 questions practice"
+        },
+        {
+          "phase_number": 2,
+          "name": "Mock Test Mastery",
+          "duration_weeks": 4,
+          "focus": "Daily mock tests + targeted weak area revision",
+          "daily_hours_recommended": 10,
+          "subjects_priority": ["Mixed", "Weak Areas"],
+          "key_milestones": ["15+ full mock tests", "Analyse every mistake", "Target 85th percentile"],
+          "daily_target": "1 full mock + 4 hours targeted revision"
+        }
+      ]
+    },
+    {
+      "id": "focused_4_6_months",
+      "label": "Focused Preparation (4–6 months)",
+      "suitable_for_months": { "min": 4, "max": 6 },
+      "suitable_for_class": ["12th", "Dropper"],
+      "phases": [
+        {
+          "phase_number": 1,
+          "name": "Foundation Strengthening",
+          "duration_weeks": 8,
+          "focus": "Solidify weak concepts with NCERT + reference books",
+          "daily_hours_recommended": 8,
+          "subjects_priority": ["Physics", "Chemistry", "Maths"],
+          "key_milestones": ["Complete all NCERT exercises", "One chapter practice test per week"],
+          "daily_target": "2 new concepts + 30 questions + 1 hour revision"
+        },
+        {
+          "phase_number": 2,
+          "name": "Advanced Problem Solving",
+          "duration_weeks": 8,
+          "focus": "Hard problems, PYQs, topic-wise tests",
+          "daily_hours_recommended": 9,
+          "subjects_priority": ["Maths", "Physics", "Chemistry"],
+          "key_milestones": ["Solve 10 years JEE Mains PYQs", "HC Verma selected problems done"],
+          "daily_target": "PYQ session + topic test + weak area focus"
+        },
+        {
+          "phase_number": 3,
+          "name": "Full Mock + Revision",
+          "duration_weeks": 8,
+          "focus": "Full mock tests every 2 days + systematic revision",
+          "daily_hours_recommended": 10,
+          "subjects_priority": ["Weak Areas", "High Yield"],
+          "key_milestones": ["20+ mock tests", "Target 90th percentile", "Formula sheets ready"],
+          "daily_target": "Alternating mock day / deep revision day"
+        }
+      ]
+    },
+    {
+      "id": "comprehensive_7_12_months",
+      "label": "Comprehensive Preparation (7–12 months)",
+      "suitable_for_months": { "min": 7, "max": 12 },
+      "suitable_for_class": ["11th", "12th", "Dropper"],
+      "phases": [
+        {
+          "phase_number": 1,
+          "name": "Conceptual Foundation",
+          "duration_weeks": 12,
+          "focus": "Build strong fundamentals — NCERT + standard books, concept-first approach",
+          "daily_hours_recommended": 6,
+          "subjects_priority": ["Physics", "Maths", "Chemistry"],
+          "key_milestones": ["NCERT completed with notes", "Chapter-end exercises done"],
+          "daily_target": "1 chapter study + 20 problems + formula revision"
+        },
+        {
+          "phase_number": 2,
+          "name": "JEE-Level Problem Solving",
+          "duration_weeks": 14,
+          "focus": "JEE-specific problem patterns, PYQ analysis, advanced books",
+          "daily_hours_recommended": 8,
+          "subjects_priority": ["Maths", "Physics", "Chemistry"],
+          "key_milestones": ["500+ problems per subject", "Last 15 years PYQs done"],
+          "daily_target": "Hard problems + PYQ analysis + chapter test"
+        },
+        {
+          "phase_number": 3,
+          "name": "Revision & Mock Tests",
+          "duration_weeks": 8,
+          "focus": "Formula sheets, chapter summaries, weekly mock tests",
+          "daily_hours_recommended": 9,
+          "subjects_priority": ["Weak Areas", "High Yield"],
+          "key_milestones": ["15+ full mocks", "Error log maintained", "90th percentile target"],
+          "daily_target": "Mock every 3 days + active revision"
+        },
+        {
+          "phase_number": 4,
+          "name": "Final Sprint",
+          "duration_weeks": 8,
+          "focus": "Daily mocks, rapid revision, mental preparation",
+          "daily_hours_recommended": 10,
+          "subjects_priority": ["All"],
+          "key_milestones": ["25+ mocks completed", "Consistent 90th+ percentile"],
+          "daily_target": "1 full mock + 3 hours revision + formula drill"
+        }
+      ]
+    },
+    {
+      "id": "longterm_13_24_months",
+      "label": "Long-Term Strategic Preparation (13–24 months)",
+      "suitable_for_months": { "min": 13, "max": 24 },
+      "suitable_for_class": ["10th", "11th"],
+      "phases": [
+        {
+          "phase_number": 1,
+          "name": "Class Foundation",
+          "duration_weeks": 20,
+          "focus": "Build Class 11 syllabus from scratch with NCERT + HC Verma / SL Loney",
+          "daily_hours_recommended": 4,
+          "subjects_priority": ["Maths", "Physics"],
+          "key_milestones": ["Class 11 board-level mastery", "First JEE concept introduction"],
+          "daily_target": "School + 4 hours self-study with NCERT"
+        },
+        {
+          "phase_number": 2,
+          "name": "Class 12 + JEE Acceleration",
+          "duration_weeks": 24,
+          "focus": "Class 12 syllabus + start JEE-level problems simultaneously",
+          "daily_hours_recommended": 6,
+          "subjects_priority": ["Physics", "Chemistry", "Maths"],
+          "key_milestones": ["Class 12 syllabus complete", "1000+ problems solved"],
+          "daily_target": "School + 6 hours JEE preparation"
+        },
+        {
+          "phase_number": 3,
+          "name": "JEE Full Preparation",
+          "duration_weeks": 20,
+          "focus": "Full JEE syllabus mastery, PYQs, topic-wise tests",
+          "daily_hours_recommended": 8,
+          "subjects_priority": ["Weak Areas", "High Yield"],
+          "key_milestones": ["Full syllabus covered", "PYQ completion"],
+          "daily_target": "8 hours JEE-focused study"
+        },
+        {
+          "phase_number": 4,
+          "name": "Mock & Mastery",
+          "duration_weeks": 12,
+          "focus": "Mock tests, weak area elimination, confidence building",
+          "daily_hours_recommended": 10,
+          "subjects_priority": ["All"],
+          "key_milestones": ["30+ mocks", "Target 95th percentile"],
+          "daily_target": "Mock + analysis + targeted revision"
+        }
+      ]
+    }
+  ]
+}

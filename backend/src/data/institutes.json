@@ -1,0 +1,56 @@
+{
+  "institutes": [
+    {
+      "id": "allen_kota",
+      "name": "ALLEN Career Institute",
+      "type": "offline",
+      "locations": ["Kota", "Delhi", "Jaipur", "Lucknow", "Hyderabad", "Bangalore"],
+      "annual_fee_range": "₹1,20,000 – ₹2,20,000",
+      "jee_advanced_selection_rate": "~25% of enrolled students",
+      "notable_batches": ["Leader", "Enthusiast", "Nurture", "Achiever"],
+      "pros": ["Best study material in India", "Highly experienced faculty", "Intense competitive environment", "Structured DPPs and tests", "Kota advantage"],
+      "cons": ["Very expensive", "Stressful environment", "Far from home for many", "High pressure", "Not suited for self-paced learners"],
+      "best_for": ["IIT_TOP_7", "ANY_IIT"],
+      "website": "https://www.allen.ac.in"
+    },
+    {
+      "id": "resonance_kota",
+      "name": "Resonance Eduventures",
+      "type": "offline",
+      "locations": ["Kota", "Delhi", "Mumbai", "Nagpur"],
+      "annual_fee_range": "₹1,00,000 – ₹1,80,000",
+      "jee_advanced_selection_rate": "~18% of enrolled students",
+      "notable_batches": ["PCCP", "Vikaas", "Vishwaas"],
+      "pros": ["Strong Physics faculty", "Good test series", "Lower fees than ALLEN", "Strong alumni network"],
+      "cons": ["Less polished study material", "Inconsistent faculty quality across branches"],
+      "best_for": ["ANY_IIT", "NIT_TOP_IIIT"],
+      "website": "https://www.resonance.ac.in"
+    },
+    {
+      "id": "fiitjee",
+      "name": "FIITJEE",
+      "type": "offline",
+      "locations": ["Delhi", "Mumbai", "Chennai", "Hyderabad", "Bangalore", "40+ cities"],
+      "annual_fee_range": "₹80,000 – ₹1,60,000",
+      "jee_advanced_selection_rate": "~15% of enrolled students",
+      "notable_batches": ["Pinnacle", "Grand Masters", "Big Bang Edge"],
+      "pros": ["Pan-India presence", "Strong JEE Advanced focus", "Good for early starters (Class 9-10)"],
+      "cons": ["Variable quality by centre", "Study material less updated", "Declining results in recent years"],
+      "best_for": ["IIT_TOP_7", "ANY_IIT"],
+      "website": "https://www.fiitjee.com"
+    },
+    {
+      "id": "physics_wallah_pw",
+      "name": "Physics Wallah (PW)",
+      "type": "online",
+      "locations": ["Online – Pan India", "PW Vidyapeeth centres in major cities"],
+      "annual_fee_range": "₹6,000 – ₹20,000",
+      "jee_advanced_selection_rate": "Growing – approx 5–8%",
+      "notable_batches": ["Arjuna JEE", "Lakshya JEE", "Batch with Alakh Pandey"],
+      "pros": ["Most affordable quality coaching", "Excellent conceptual teaching", "Massive student community", "Free YouTube content"],
+      "cons": ["Less focus on JEE Advanced hard problems", "Less rigorous problem sets vs ALLEN", "Less personalised attention"],
+      "best_for": ["NIT_TOP_IIIT", "ANY_ENGINEERING", "ANY_IIT"],
+      "website": "https://www.pw.live"
+    }
+  ]
+}

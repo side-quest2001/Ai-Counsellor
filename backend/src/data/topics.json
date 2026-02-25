@@ -1,0 +1,180 @@
+{
+  "topics": [
+    {
+      "name": "Mechanics",
+      "subject": "Physics",
+      "weightage_percent": 25,
+      "adv_weightage_percent": 30,
+      "difficulty": "Medium",
+      "avg_questions_mains": 5,
+      "is_high_yield": true,
+      "prerequisite_topics": ["Algebra", "Trigonometry"],
+      "typical_study_weeks": 8
+    },
+    {
+      "name": "Electrostatics",
+      "subject": "Physics",
+      "weightage_percent": 12,
+      "adv_weightage_percent": 15,
+      "difficulty": "Hard",
+      "avg_questions_mains": 3,
+      "is_high_yield": true,
+      "prerequisite_topics": ["Mechanics"],
+      "typical_study_weeks": 4
+    },
+    {
+      "name": "Magnetism",
+      "subject": "Physics",
+      "weightage_percent": 10,
+      "adv_weightage_percent": 12,
+      "difficulty": "Hard",
+      "avg_questions_mains": 2,
+      "is_high_yield": true,
+      "prerequisite_topics": ["Electrostatics"],
+      "typical_study_weeks": 3
+    },
+    {
+      "name": "Thermodynamics",
+      "subject": "Physics",
+      "weightage_percent": 8,
+      "adv_weightage_percent": 8,
+      "difficulty": "Medium",
+      "avg_questions_mains": 2,
+      "is_high_yield": false,
+      "prerequisite_topics": ["Mechanics"],
+      "typical_study_weeks": 2
+    },
+    {
+      "name": "Optics",
+      "subject": "Physics",
+      "weightage_percent": 10,
+      "adv_weightage_percent": 12,
+      "difficulty": "Medium",
+      "avg_questions_mains": 2,
+      "is_high_yield": true,
+      "prerequisite_topics": ["Waves"],
+      "typical_study_weeks": 3
+    },
+    {
+      "name": "Waves",
+      "subject": "Physics",
+      "weightage_percent": 7,
+      "adv_weightage_percent": 8,
+      "difficulty": "Medium",
+      "avg_questions_mains": 2,
+      "is_high_yield": false,
+      "prerequisite_topics": ["Mechanics"],
+      "typical_study_weeks": 2
+    },
+    {
+      "name": "Modern Physics",
+      "subject": "Physics",
+      "weightage_percent": 10,
+      "adv_weightage_percent": 8,
+      "difficulty": "Easy",
+      "avg_questions_mains": 2,
+      "is_high_yield": true,
+      "prerequisite_topics": [],
+      "typical_study_weeks": 2
+    },
+    {
+      "name": "Organic Chemistry",
+      "subject": "Chemistry",
+      "weightage_percent": 30,
+      "adv_weightage_percent": 35,
+      "difficulty": "Hard",
+      "avg_questions_mains": 6,
+      "is_high_yield": true,
+      "prerequisite_topics": ["Physical Chemistry"],
+      "typical_study_weeks": 10
+    },
+    {
+      "name": "Inorganic Chemistry",
+      "subject": "Chemistry",
+      "weightage_percent": 35,
+      "adv_weightage_percent": 30,
+      "difficulty": "Medium",
+      "avg_questions_mains": 7,
+      "is_high_yield": true,
+      "prerequisite_topics": [],
+      "typical_study_weeks": 6
+    },
+    {
+      "name": "Physical Chemistry",
+      "subject": "Chemistry",
+      "weightage_percent": 35,
+      "adv_weightage_percent": 35,
+      "difficulty": "Medium",
+      "avg_questions_mains": 7,
+      "is_high_yield": true,
+      "prerequisite_topics": ["Algebra"],
+      "typical_study_weeks": 8
+    },
+    {
+      "name": "Calculus",
+      "subject": "Maths",
+      "weightage_percent": 35,
+      "adv_weightage_percent": 35,
+      "difficulty": "Hard",
+      "avg_questions_mains": 10,
+      "is_high_yield": true,
+      "prerequisite_topics": ["Algebra", "Trigonometry"],
+      "typical_study_weeks": 10
+    },
+    {
+      "name": "Algebra",
+      "subject": "Maths",
+      "weightage_percent": 25,
+      "adv_weightage_percent": 25,
+      "difficulty": "Medium",
+      "avg_questions_mains": 7,
+      "is_high_yield": true,
+      "prerequisite_topics": [],
+      "typical_study_weeks": 8
+    },
+    {
+      "name": "Coordinate Geometry",
+      "subject": "Maths",
+      "weightage_percent": 20,
+      "adv_weightage_percent": 18,
+      "difficulty": "Medium",
+      "avg_questions_mains": 5,
+      "is_high_yield": true,
+      "prerequisite_topics": ["Algebra"],
+      "typical_study_weeks": 6
+    },
+    {
+      "name": "Vectors & 3D",
+      "subject": "Maths",
+      "weightage_percent": 8,
+      "adv_weightage_percent": 10,
+      "difficulty": "Medium",
+      "avg_questions_mains": 2,
+      "is_high_yield": false,
+      "prerequisite_topics": ["Coordinate Geometry"],
+      "typical_study_weeks": 3
+    },
+    {
+      "name": "Probability",
+      "subject": "Maths",
+      "weightage_percent": 7,
+      "adv_weightage_percent": 8,
+      "difficulty": "Hard",
+      "avg_questions_mains": 2,
+      "is_high_yield": false,
+      "prerequisite_topics": ["Algebra"],
+      "typical_study_weeks": 2
+    },
+    {
+      "name": "Trigonometry",
+      "subject": "Maths",
+      "weightage_percent": 5,
+      "adv_weightage_percent": 4,
+      "difficulty": "Easy",
+      "avg_questions_mains": 1,
+      "is_high_yield": false,
+      "prerequisite_topics": [],
+      "typical_study_weeks": 2
+    }
+  ]
+}
