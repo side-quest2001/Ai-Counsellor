@@ -10,7 +10,19 @@ const PORT = process.env.PORT || 3001;
 
 app.use(
   cors({
-    origin: ['http://localhost:5173', 'http://localhost:4173'],
+    origin: (origin, callback) => {
+      // Allow requests with no origin (curl, Postman, same-origin)
+      if (!origin) return callback(null, true);
+      // Allow localhost dev and any Vercel deployment
+      if (
+        origin.startsWith('http://localhost') ||
+        origin.endsWith('.vercel.app') ||
+        origin.endsWith('onrender.com')
+      ) {
+        return callback(null, true);
+      }
+      callback(new Error('Not allowed by CORS'));
+    },
     methods: ['GET', 'POST'],
     credentials: false,
   }),
