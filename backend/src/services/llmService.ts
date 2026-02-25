@@ -35,7 +35,7 @@ export async function getLLMRecommendation(context: AnalysisContext): Promise<An
         { role: 'user', content: userPrompt },
       ],
       temperature: 0.7,
-      max_tokens: 3000,
+      max_tokens: 8192,
     });
 
     const raw = response.choices[0]?.message?.content ?? '';
