@@ -7,10 +7,14 @@ import type {
   AnalysisContext,
 } from '../types/index.js';
 
-import coursesData from '../data/courses.json' assert { type: 'json' };
-import topicsData from '../data/topics.json' assert { type: 'json' };
-import studyPlansData from '../data/studyPlans.json' assert { type: 'json' };
-import resourcesData from '../data/resources.json' assert { type: 'json' };
+// eslint-disable-next-line @typescript-eslint/no-require-imports
+const coursesData = require('../data/courses.json') as { courses: Course[] };
+// eslint-disable-next-line @typescript-eslint/no-require-imports
+const topicsData = require('../data/topics.json') as { topics: Topic[] };
+// eslint-disable-next-line @typescript-eslint/no-require-imports
+const studyPlansData = require('../data/studyPlans.json') as { studyPlans: StudyPlan[] };
+// eslint-disable-next-line @typescript-eslint/no-require-imports
+const resourcesData = require('../data/resources.json') as { resources: Resource[] };
 
 const courses = coursesData.courses as Course[];
 const topics = topicsData.topics as Topic[];
